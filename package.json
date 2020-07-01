@@ -1,0 +1,11 @@
+{
+    "name": "MiChat",
+    "version": "0.0.0",
+    "description": "Chat con NodeJS.",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "kheyvit Paniagua"
+}
